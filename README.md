@@ -9,3 +9,5 @@ colorwheel working.
 The way to run my project is to import it into visual studio. once imported you should build it using the green 
 hammer. After that you will run the application and create a virtual device. Select this device and the project will
 run. You can then push the buttons and work the application.
+Github repository
+https://github.com/impium/SWHW1/blob/master/README.md
